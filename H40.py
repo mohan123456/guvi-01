@@ -1,6 +1,6 @@
 a=sorted('dhoni')
-b=sorted(input("enter"))
+b=sorted(input("Enter"))
 if a==b:
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
