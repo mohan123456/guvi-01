@@ -1,7 +1,7 @@
-n=int(input("enter n value"))
+n=int(input("Enter N value"))
 a=[]
 for i in range(n):
-  b=int(input("enter the value"))
+  b=int(input("Enter the value"))
   a.append(b)
 al=a[(len(a)//2):]
 ah=a[:(len(a)//2)]
